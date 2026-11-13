@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Omar Bouaouina</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Omar Bouaouina</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Nov 2026 11:30:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Not Yet, Uncle Keynes</title>
+      <link>http://localhost:1313/writings/not-yet-uncle-keynes/</link>
+      <pubDate>Fri, 13 Nov 2026 11:30:00 -0500</pubDate>
+      <guid>http://localhost:1313/writings/not-yet-uncle-keynes/</guid>
+      <description>&lt;p&gt;In 1930, John Maynard Keynes looked a century ahead and promised his grandchildren a utopia. With technology doing the heavy work, he figured we’d all be working 15-hour weeks, leaving the rest of our days open for philosophy, art, and actually living in the moment.&lt;/p&gt;
+&lt;p&gt;Nearly a hundred years later, the verdict is in: Not yet, Uncle Keynes.&lt;/p&gt;
+&lt;p&gt;Instead of a golden age of leisure, we got burnout culture on steroids and humans fueling on Monster energy drinks. The machines didn’t set us free; they just built a compact, quantum cage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hello, my name is Omar. I first came to this world inside my grandfather&amp;rsquo;s house kitchen, welcomed by two adoring parents: Mohand and Khdija. I am the youngest among three male siblings, Jamal and Hamid, without whom I could never dream of being the person I am today.&lt;/p&gt;
+&lt;p&gt;I grew up in a small rural area called Laanoussar in the heart of the Middle Atlas. Between attending school and herding goats, I developed my curiosity to understand the wider world and dedicated my life to it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ⴰⵅⵓⴱ (Akhub) : The Melancholy of Imazighen</title>
+      <link>http://localhost:1313/amazigh/akhub-and-our-history/</link>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/amazigh/akhub-and-our-history/</guid>
+      <description>&lt;p&gt;ⴰⵅⵓⴱ (pronounced &amp;ldquo;Akhub&amp;rdquo; in Tamazight) denotes a mix of melancholy and agony. This single word describes much of the history of Amazigh people in North Africa, at best it can be seen as a fractured, unrecorded history, and a continuous series of occupations and exploitations. First came the Romans, followed by their successors: the Byzantines and the Germanic Vandals. When our ancestors finally began to stand up, their authentic identity was repeatedly driven underground, obscured beneath exogenous layers, but here we are sharper than Obsidian and taller than Cedrus.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+/* ==========================================================================
+   Global Theme Colors
+   ========================================================================== */
+
+:root {
+  /* Main Background & Text */
+  --theme: #fdfbf7;           /* Warm off-white background */
+  --entry: #ffffff;           /* Card background */
+  --primary: #2c3e50;         /* Main heading & body text color */
+  --secondary: #566573;       /* Subtitles & metadata color */
+  --tertiary: #eaeded;        /* Subtle borders & hover fills */
+  --content: #2d3748;         /* Main paragraph text */
+  --syntax-bg: #f4f6f7;       /* Code block background */
+
+  /* Your Custom Color Palette */
+  --accent-blue: #3498db;     /* Light Blue */
+  --accent-green: #27ae60;    /* Light Green */
+  --accent-yellow: #f1c40f;   /* Yellow */
+  --accent-red: #e74c3c;      /* Subtle Red */
+}
+
+/* Dark Mode Overrides */
+.dark {
+  --theme: #1a252c;
+  --entry: #22313b;
+  --primary: #ecf0f1;
+  --secondary: #bdc3c7;
+  --tertiary: #34495e;
+  --content: #e2e8f0;
+  --syntax-bg: #11181e;
+}
+
+/* ==========================================================================
+   UI Elements & Palette Accents
+   ========================================================================== */
+
+/* Top Navigation Bar: Light Blue bottom accent */
+.nav {
+  border-bottom: 2px solid var(--accent-blue);
+}
+
+/* Header Site Title / Logo: Light Green */
+.logo a {
+  color: var(--accent-green) !important;
+}
+
+/* Navigation Menu Links Hover Effect: Light Blue */
+.menu a:hover {
+  color: var(--accent-blue) !important;
+}
+
+/* Quotes & Blockquotes (Poetry / Translations): Red left border */
+blockquote {
+  border-left: 4px solid var(--accent-red) !important;
+  background-color: rgba(231, 76, 60, 0.05);
+  padding: 10px 15px;
+  margin: 20px 0;
+  font-style: italic;
+}
+
+/* Page Footer: Yellow top accent line */
+footer {
+  border-top: 1px solid var(--accent-yellow);
+  padding-top: 15px;
+}

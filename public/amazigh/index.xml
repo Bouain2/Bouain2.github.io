@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Amazighs on Omar Bouaouina</title>
+    <link>http://localhost:1313/amazigh/</link>
+    <description>Recent content in Amazighs on Omar Bouaouina</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Nov 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/amazigh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ⴰⵅⵓⴱ (Akhub) : The Melancholy of Imazighen</title>
+      <link>http://localhost:1313/amazigh/akhub-and-our-history/</link>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/amazigh/akhub-and-our-history/</guid>
+      <description>&lt;p&gt;ⴰⵅⵓⴱ (pronounced &amp;ldquo;Akhub&amp;rdquo; in Tamazight) denotes a mix of melancholy and agony. This single word describes much of the history of Amazigh people in North Africa, at best it can be seen as a fractured, unrecorded history, and a continuous series of occupations and exploitations. First came the Romans, followed by their successors: the Byzantines and the Germanic Vandals. When our ancestors finally began to stand up, their authentic identity was repeatedly driven underground, obscured beneath exogenous layers, but here we are sharper than Obsidian and taller than Cedrus.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
